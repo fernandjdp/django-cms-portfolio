@@ -1,2 +1,3 @@
-# django-crud-example
-Ejemplo de un CRUD sencillo usando Python
+# Django CMS Portfolio
+Portafolio de trabajos basado en CMS realizado en Django
+
